@@ -1,0 +1,2 @@
+# Linear-Regression-Python
+This program uses linear regression ###     linear prediction/number prediction for students grades     based on either their first grade, (G1), second grade (G2)     or their third grade(G3). Predictions can also be made based     on their study time, previous failures (in tests) or absences.     The models are then saved in a txt file and also visually presented     in graph form
